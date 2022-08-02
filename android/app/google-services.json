@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "112954020182",
+    "project_id": "my-first-project2-a53d3",
+    "storage_bucket": "my-first-project2-a53d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112954020182:android:e4ad71f2563b4e13a0c6f7",
+        "android_client_info": {
+          "package_name": "com.example.chatnewss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112954020182-46fride4pt5s63lcuaau3ig7dm7ppp47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDO9Z494zTG2CW9kegaIcg-EV-aocTBa1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112954020182-46fride4pt5s63lcuaau3ig7dm7ppp47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
